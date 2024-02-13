@@ -1,0 +1,7 @@
+orange 3
+banana 5
+orange 8
+grape 8
+apple 10
+grape 12
+apple 15
